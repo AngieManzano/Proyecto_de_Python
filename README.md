@@ -43,7 +43,7 @@ Total_sales: Son los ingresos totales del pedido que consite en la multiplicacio
  1. ¿Cuál es el la región con mayor ingreso?
 
 
-!['barra1'](../Proyecto_de_Python/picture/grafica1.jpeg)
+![barra1](./picture/grafica1.jpeg)
 
 
 En la gráfica se muestra que West es la región con mayor ingreso entre todos.
@@ -55,7 +55,7 @@ En la gráfica se muestra que West es la región con mayor ingreso entre todos.
 2. ¿Cuál es el método de pago más usado al realizar las compras?
 
 
-!['2'](../Proyecto_de_Python/picture/grafica2.jpeg)
+![2](./picture/grafica2.jpeg)
 
 En la gráfica se muestra que Card es el método de pago más usado al contar con un 45.4%.
 
@@ -69,13 +69,13 @@ La categoría que tiene el ingreso promedio más alto es la categoría Beauty.
 
 4. Si segmentamos la experiencia del cliente según los rangos estándar (Alto, Neutral, Bajo). ¿Cuál es la calificación más votada en general? 
 
-!['grafica4.'](../Proyecto_de_Python/picture/grafica4.jpeg) 
+![grafica4.](./picture/grafica4.jpeg) 
 
 
 Cada pedido fue calificado por cada cliente por lo cual se realizó una gráfica para saber el estado de calificación de los pedidos. Según la gráfica la calificación más alta está en el apartado de Bajo.
 
 5. ¿El promedio de días de entrega por cada región es menor a 8 días?
 
-![''](../Proyecto_de_Python/picture/grafica5.jpeg) 
+![5](./picture/grafica5.jpeg) 
 
 Según la gráfica el promedio de días de entrega por cada región es menor a 8 días, porque cada región tiene un promedio de casi 6 días. 
