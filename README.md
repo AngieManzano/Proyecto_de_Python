@@ -68,13 +68,13 @@ La categoría que tiene el ingreso promedio más alto es la categoría Beauty.
 
 4. Si segmentamos la experiencia del cliente según los rangos estándar (Alto, Neutral, Bajo). ¿Cuál es la calificación más votada en general? 
 
-!['4'](../Proyecto_de_Python/picture/grafica4.jpeg) 
+!['grafica4.'](../Proyecto_de_Python/picture/grafica4.jpeg) 
 
 
 Cada pedido fue calificado por cada cliente por lo cual se realizó una gráfica para saber el estado de calificación de los pedidos. Según la gráfica la calificación más alta está en el apartado de Bajo.
 
 5. ¿El promedio de días de entrega por cada región es menor a 8 días?
 
-!['5'](../Proyecto_de_Python/picture/grafica5.jpeg) 
+![''](../Proyecto_de_Python/picture/grafica5.jpeg) 
 
 Según la gráfica el promedio de días de entrega por cada región es menor a 8 días, porque cada región tiene un promedio de casi 6 días. 
