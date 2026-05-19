@@ -61,7 +61,8 @@ En la gráfica se muestra que Card es el método de pago más usado al contar co
 
 3. ¿Cuál es la categoría de producto que tiene el promedio de ingreso más alto?
 
-!['3'](../Proyecto_de_Python/picture/grafica3.jpeg) 
+![3](./picture/grafica3.jpeg) 
+
 
 
 La categoría que tiene el ingreso promedio más alto es la categoría Beauty.
