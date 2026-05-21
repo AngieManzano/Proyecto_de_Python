@@ -78,3 +78,11 @@ Cada pedido fue calificado por cada cliente por lo cual se realizó una gráfica
 ![5](./picture/grafica5.jpeg) 
 
 Según la gráfica el promedio de días de entrega por cada región es menor a 8 días, porque cada región tiene un promedio de casi 6 días. 
+
+
+6. ¿Qué categoría vendió más unidades de productos?
+
+
+![grafica5.](./picture/grafica6.jpeg) 
+
+Según la gráfica la categoría que vendió más unidades por producto fue Electronics.
